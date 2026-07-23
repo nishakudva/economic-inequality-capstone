@@ -15,7 +15,7 @@ dataset (US Census Bureau, 1994; 32,561 records) covering the four capstone pill
 
 | Finding | Evidence |
 |---|---|
-| Only **24.1%** of people earn >$50K | 3-to-1 class imbalance — accuracy alone is misleading |
+| Only **24.1%** of people earn >$50K | 3-to-1 class imbalance, accuracy alone is misleading |
 | Income rises steeply with **education** | ~0% (no diploma) → ~74% (doctorate/prof-school) |
 | Income is a **life-cycle** effect | Peaks in the late 40s–50s, then declines |
 | **Sex gap persists at every education level** | Men 32.3% vs women 12.1% earn >$50K overall |
