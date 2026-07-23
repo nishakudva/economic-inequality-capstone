@@ -5,7 +5,7 @@ sex, education, and age. An end-to-end analysis of the **UCI Adult Census Income
 dataset (US Census Bureau, 1994; 32,561 records) covering the four capstone pillars:
 **data cleaning, exploratory data analysis, visualization, and machine learning.**
 
-> ⚠️ This is real 1994 US Census data. The patterns describe real inequities for real
+> Warning: This is real 1994 US Census data. The patterns describe real inequities for real
 > people, many of which persist today. Findings are historical and should motivate
 > current measurement, not stand in for it.
 
