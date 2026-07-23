@@ -47,6 +47,7 @@ census-income-project/
 │   └── chart7_model_comparison.png
 └── Nisha_CensusIncome_executed.ipynb      # Notebook updated with executed results from collab
 └── Census_Income capstone project Q&A.html  # Q&N for the listed questions during the class
+└── Main_Conclusions.html                 # Main overall conclusion from my project work.
 ```
 
 ---
