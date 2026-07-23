@@ -1,4 +1,4 @@
-# Adult Census Income — End-to-End Data Investigation
+# Adult Census Income: End-to-End Data Investigation
 
 Who earns above vs. below **$50,000/year**, and where that story gets complicated by
 sex, education, and age. An end-to-end analysis of the **UCI Adult Census Income**
